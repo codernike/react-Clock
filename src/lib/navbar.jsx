@@ -5,8 +5,8 @@ export default function navbar() {
    <>
    <div className='navbar'>
     <div class='container-navbar '>
-      <a href='/'> <img id='navbarimg' src='https://play-lh.googleusercontent.com/jbHYnlXZ8lQJ42BrJ6vGwY--UYHYy4LzqACxi1FWmMPQ0cw3rAWHgQIl6AuhQR0UpVo' alt='logo'/>
-      BMI Calculator  </a>
+      <a href='/'> <img id='navbarimg' src='https://img.freepik.com/premium-vector/clocktime-logo-icon-illustration-design-vector-template_598213-2171.jpg?w=2000' alt='logo'/>
+     React Clock</a>
         <ul>
             <li className='li-nav'><a href='/' >Home</a></li>
             <li className='li-nav'><a href='/'>Contact Us</a></li>
